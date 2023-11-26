@@ -1,3 +1,4 @@
 ﻿This is initial line
 This is the first change develop
 This is the second change by myfeature
+New change
